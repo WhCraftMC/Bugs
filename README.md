@@ -1,2 +1,2 @@
 # Bugs
-Bug反馈
+WhCraft的Bug反馈站点
